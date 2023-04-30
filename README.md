@@ -1,3 +1,5 @@
 # dedcard
 archie with cc
-start with command blacklist.py
+upload: https://github.com/DEDCT/dedcard
+cd dedcard
+dedcart.py
